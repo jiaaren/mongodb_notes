@@ -4,6 +4,7 @@
 	- [Part 1](https://www.mongodb.com/blog/post/6-rules-of-thumb-for-mongodb-schema-design-part-1)
 	- [Part 2](https://www.mongodb.com/blog/post/6-rules-of-thumb-for-mongodb-schema-design-part-2)
 	- [Part 3](https://www.mongodb.com/blog/post/6-rules-of-thumb-for-mongodb-schema-design-part-3)
+3. [Example models](https://docs.mongodb.com/manual/applications/data-models/)
 
 ## Schema design
 ### Overview
